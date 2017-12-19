@@ -4,6 +4,9 @@
 # PLATFORM ADMIN CONSOLE
 The Admin console component which aggregates the administrative functions required to manage the capabilities of the platform. Administrative functions include monitoring, management, audit, security checking of the components of the platform. This console will be used by platform system administrators.
 
+# ENHANCEMENTS TO EXISTING ALPHA
+We decided to do a heavy lifting the existing Alpha Version adding User Interface (UI) and core technology enhancements based on feedback from usage of Version Alpha
+
 ## Functional Principles
 Managing platform upgrades and notifications about upgrades to the platform users Provide access integration to :
 
