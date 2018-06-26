@@ -5,13 +5,13 @@
 The Admin console component which aggregates the administrative functions required to manage the capabilities of the platform. Administrative functions include monitoring, management, audit, security checking of the components of the platform. This console will be used by platform system administrators.
 
 # Enhancements to the existing Alpha
-We decided to do a heavy lifting to the existing Alpha Version adding User Interface (UI) and core technology enhancements based on feedback from usage of Version Alpha
+We decided to do a heavy lifting to the existing Alpha Version adding User Interface (UI) and core technology enhancements based on feedback from usage of Version Alpha.
 
 ## Functional Principles
-Managing platform upgrades and notifications about upgrades to the platform users Provide access integration to :
+Managing platform upgrades and notifications about upgrades to the platform users provide access integration to :
 
   - The monitoring capabilities to the underlying IaaS service components
-  - The capacity and resource management capabilities for the   infrastructure services
+  - The capacity and resource management capabilities for the infrastructure services
   - The monitoring capabilities to software and middleware services of the platform
   - Platform catalog management service component
   - Audit logs, security reports, Log analysis and user Management for the platform
